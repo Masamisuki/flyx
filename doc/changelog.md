@@ -2,7 +2,7 @@
 
 每个版本的主要变化。**升级** 一行说明除了面板以外还要不要升级节点 agent；没写的只需升级面板，见 [升级](./guide/upgrade.md)。
 
-完整的提交记录见 [GitHub Releases](https://github.com/kure29/flyx/releases)。
+完整的提交记录见 [GitHub Releases](https://github.com/Masamisuki/flyx/releases)。
 
 ## 3.5.6
 

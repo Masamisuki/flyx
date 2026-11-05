@@ -17,7 +17,7 @@ hero:
       link: /guide/concepts
     - theme: alt
       text: GitHub
-      link: https://github.com/kure29/flyx
+      link: https://github.com/Masamisuki/flyx
     - theme: alt
       text: Telegram 交流群
       link: https://t.me/flyx_chat

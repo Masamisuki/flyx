@@ -14,7 +14,7 @@ export default defineConfig({
       { text: "指南", link: "/guide/getting-started" },
       { text: "在线演示", link: "https://kure29.github.io/flyx/demo/" },
       { text: "更新日志", link: "/changelog" },
-      { text: "下载", link: "https://github.com/kure29/flyx/releases" },
+      { text: "下载", link: "https://github.com/Masamisuki/flyx/releases" },
     ],
     sidebar: [
       {
@@ -76,7 +76,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/kure29/flyx" },
+      { icon: "github", link: "https://github.com/Masamisuki/flyx" },
       { icon: "telegram", link: "https://t.me/flyx_chat" },
     ],
     search: { provider: "local" },
